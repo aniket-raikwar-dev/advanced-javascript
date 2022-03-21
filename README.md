@@ -16,6 +16,16 @@ Concept of Advanced JavaScript for cracking the internship interview easily.
 - it is a main topic of javascript. How it actually working for a different variables and functions.
 - So, it gives a good idea of Hoisting.
 
+# Promises
+- It is very main topic in Javascript. 
+- It work totally like a real world promises that is explained in whole section.
+
+# Destructure
+- Without learning Destructuring its going hard to work with an react and node.
+- it is very important part of future aspect.
+
+# Template Literals
+- It is also confusing for a beginner but trust me it is one of the easiest topic in whole JavaScript.
 
 # Spread & Rest Operator
 - it has this method also with an good examples.
